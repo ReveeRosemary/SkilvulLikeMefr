@@ -1,0 +1,16 @@
+(10 SkilPoin)
+
+Ubahlah element di bawah ini agar tulisannya bisa memiliki warna merah
+
+<p>Selamat Datang</p>
+
+A
+p{color: red;}
+
+B
+p{style = color: "red";}
+
+C
+p{colors: "red";}
+
+Jawaban : A
