@@ -1,0 +1,1 @@
+saya lupa ganti akun git bash di komputer kelas, jadi yg commit dari akunnya reyfal. Sekian terimakasih
