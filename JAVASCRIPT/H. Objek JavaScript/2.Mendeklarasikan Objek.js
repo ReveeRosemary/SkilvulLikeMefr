@@ -1,5 +1,7 @@
 // Tulis kode kalian di bawah ini
 let saya = {
-  nama: "epul",
-  umur: 1,
+  nama: "revee",
+  umur: 16,
 };
+
+console.log(saya);
